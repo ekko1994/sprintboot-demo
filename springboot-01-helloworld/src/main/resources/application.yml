@@ -1,0 +1,12 @@
+server:
+  port: 8081
+spring:
+  main:
+    log-startup-info: true
+
+  output:
+    ansi:
+      enabled: ALWAYS
+logging:
+  file:
+    path: /spring/log

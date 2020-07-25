@@ -1,0 +1,18 @@
+dog:
+  age: 2
+  name: jack
+
+person:
+  age: 1
+  birth: 1999/09/09
+  boss: true
+  lists:
+    - a
+    - b
+  last-name: curry
+  maps:
+    k1: v1,
+    k2: v2
+  dog:
+    name: jack
+    age: 2
